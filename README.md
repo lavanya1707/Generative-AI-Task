@@ -1,7 +1,5 @@
 # Generative-AI-Task
 
-Usage
-Open the text_generation.py script in your preferred code editor.
 Run the script to train the model and generate new text
 The script will output the generated text based on the seed provided in the code.
 
